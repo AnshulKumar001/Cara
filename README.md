@@ -56,11 +56,4 @@ It is a **frontend-only Ecommerce website**, not connected to a backend or payme
 
 The website is deployed using **GitHub Pages**.
 
----
-
-## ✍️ Author
-
-**Anshul Kumar**
-
----
 
