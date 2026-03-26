@@ -1,4 +1,4 @@
-# 🛒 Cara – Ecommerce Website
+# 🛒 Cara – Ecommerce Website 
 
 This repository contains **Cara**, a frontend **Ecommerce website** created for **learning and practice**.
 The website is deployed using **GitHub Pages**.
